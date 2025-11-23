@@ -19,5 +19,5 @@
 #
 ---
 include:
-  - board: adafruit_kb2040
-    shield: hummingbird
+  - board: sparkfun_pro_micro_rp2040
+    shield: budgie
